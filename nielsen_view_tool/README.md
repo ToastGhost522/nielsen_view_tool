@@ -18,9 +18,9 @@ Or install it yourself as:
 
     $ gem install nielsen_view_tool
 
-## Usage
-
-TODO: Write usage instructions here
+```ruby
+NielsenViewTool::Renderer.copyright 'Emmy Nielsen', 'All rights reserved'
+```
 
 ## Development
 
